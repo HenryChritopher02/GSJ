@@ -1,0 +1,16 @@
+receptor = dpp4.pdbqt
+#ligand = ligand.pdbqt
+
+center_x = 14.335
+center_y = 35.641
+center_z = 55.516
+
+size_x = 44
+size_y = 34
+size_z = 20
+spacing = 0.375
+
+num_modes = 10
+energy_range = 4
+exhaustiveness = 8
+seed = 42

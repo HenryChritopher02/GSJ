@@ -1,0 +1,16 @@
+receptor = sglt2.pdbqt
+#ligand = ligand.pdbqt
+
+center_x = 66.626
+center_y = 66.835
+center_z = 75.712
+
+size_x = 22
+size_y = 24
+size_z = 38
+spacing = 0.375
+
+num_modes = 10
+energy_range = 4
+exhaustiveness = 8
+seed = 42

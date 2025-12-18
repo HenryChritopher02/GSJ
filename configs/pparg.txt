@@ -1,0 +1,16 @@
+receptor = pparg.pdbqt
+#ligand = co-crys_ligand.pdbqt
+
+center_x = -48.318
+center_y = -1.402
+center_z = 77.204
+
+size_x = 32
+size_y = 28
+size_z = 36
+spacing = 0.375
+
+num_modes = 10
+energy_range = 4
+exhaustiveness = 8
+seed = 42
